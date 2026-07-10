@@ -1,10 +1,10 @@
-# VoltShift: Smart Energy & Carbon Scheduler ⚡️🌱
+# VoltShift: Smart Energy & Carbon Scheduler
 
 **VoltShift** (also featured as **Shanvi's Green Energy Saver**) is an end-to-end Machine Learning and Numerical Optimization platform designed to optimize commercial building energy consumption. By combining time-series forecasting with mathematical optimization, VoltShift shifts flexible energy loads (like HVAC cooling/heating and EV charging) to hours of the day when the electricity grid is both cheaper and cleaner.
 
 ---
 
-## 🚀 System Architecture & How It Works
+## System Architecture & How It Works
 
 VoltShift operates in a closed-loop pipeline across three main stages:
 
@@ -48,7 +48,7 @@ Where:
 
 ---
 
-## 🖥️ Dashboard Features
+## Dashboard Features
 
 * **Control Room (Main Dashboard)**: Real-time telemetry displaying Money Saved ($), Carbon Prevented (kg $CO_2$), and Peak Grid Load Reduction (%), backed by interactive Plotly charts showing optimized vs baseline consumption.
 * **How the AI Decides (XAI)**: Visualizes the impact of the priority weights and pricing/carbon curves on load shifting behavior.
@@ -56,7 +56,7 @@ Where:
 
 ---
 
-## 🛠️ Setup & Running Locally
+## Setup & Running Locally
 
 ### 1. Initialize Virtual Environment (Windows)
 ```powershell
@@ -83,6 +83,6 @@ python -m venv venv
 
 ---
 
-## 👤 Developer Profile
+## Developer Profile
 * **Developer**: Shanvi
 * **GitHub**: [@shvi2103](https://github.com/shvi2103)
