@@ -1,6 +1,6 @@
 # VoltShift: Smart Energy & Carbon Scheduler
 
-**VoltShift** (also featured as **Shanvi's Green Energy Saver**) is an end-to-end Machine Learning and Numerical Optimization platform designed to optimize commercial building energy consumption. By combining time-series forecasting with mathematical optimization, VoltShift shifts flexible energy loads (like HVAC cooling/heating and EV charging) to hours of the day when the electricity grid is both cheaper and cleaner.
+**VoltShift** (also featured as ** Green Energy Saver**) is an end-to-end Machine Learning and Numerical Optimization platform designed to optimize commercial building energy consumption. By combining time-series forecasting with mathematical optimization, VoltShift shifts flexible energy loads (like HVAC cooling/heating and EV charging) to hours of the day when the electricity grid is both cheaper and cleaner.
 
 ---
 
