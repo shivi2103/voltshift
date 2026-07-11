@@ -82,7 +82,3 @@ python -m venv venv
 ```
 
 ---
-
-## Developer Profile
-* **Developer**: Shanvi
-* **GitHub**: [@shvi2103](https://github.com/shvi2103)
